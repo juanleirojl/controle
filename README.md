@@ -1,2 +1,2 @@
-# http://juanleirojl.github.com/controle
+# http://juanleirojl.github.io/controle
 Juan Leiro
